@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h2>Introduce</h2>
-<div>✅ Major: 정보통신학과 / IoT융합전공 진행중</div>
+<div>✅ Major: 중부대학교 정보통신학과 (IoT융합전공 진행중)</div>
 <div>💻 Blog: https://velog.io/@inkuksuss</div>
 <div>💎 Awards: </div>
   <ul>
