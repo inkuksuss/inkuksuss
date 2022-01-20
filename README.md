@@ -15,7 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<h2>Introduce</h2>
+<div>✅ Major: 정보통신학과 / IoT융합전공 진행중</div>
+<div>💻 Blog: https://velog.io/@inkuksuss</div>
+<div>💎 Awards: </div>
+  <ul>
+    <li>
+      <span>
+        중부대학교 2021 JB-Vallery 창업 경진대회 우수상
+      </span>
+    </li>
+    <li>
+      <span>
+        중부대학교 2021 캡스톤 경진대회 장려상
+      </span>
+    </li>
+  </ul>
 
 <h2>Technology Stack</h2>
 <ul>
